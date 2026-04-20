@@ -42,6 +42,26 @@ Meu perfil é voltado para:
 
 ---
 
+## 🎓 Formação Acadêmica
+
+👨‍🎓 **Ensino Superior**  
+- Ciência da Computação
+
+👨‍🎓 **Pós-graduações e MBAs**
+- Engenharia de Software  
+- Arquitetura de Sistemas da Informação  
+- Engenharia DevOps  
+- Business Intelligence, Big Data e Inteligência Artificial  
+- Gestão Estratégica de Projetos e Metodologias  
+- Gestão da Inovação, Tecnologia e Empreendedorismo  
+- Gerenciamento de Projetos  
+
+👨‍🎓 **Mestrado (em andamento)**  
+- Ciência da Computação – UTFPR
+
+📚 **Certificações**  
+- +120 certificações na área de Tecnologia
+
 ## ⚙️ Ferramentas & Metodologias
 
 - 📊 Gestão de Projetos: Jira | Kanban | Redmine 
