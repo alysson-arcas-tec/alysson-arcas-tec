@@ -1,8 +1,12 @@
-# 👋 Olá, eu sou o Alysson Arcas
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:000000&height=200&section=header&text=&fontSize=40&fontColor=ffffff" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00C853&size=28&center=true&vCenter=true&width=750&speed=50&pause=1500&lines=Olá,+eu+sou+Alysson;Hello,+I'm+Alysson;Seja+muito+bem-vindo+ao+meu+GitHub;Welcome+to+my+GitHub" />
 
-🎯 Coordenador de Projetos  
-📊 Foco em organização, eficiência e entrega de resultados  
-📍 Brasil  
+---
+</p>
+🎯 Coordenador de Projetos <br>
+📊 Foco em organização, eficiência e entrega de resultados <br>
+📍 Brasil <br>
 
 ---
 
@@ -70,7 +74,15 @@ Este GitHub é focado em gestão de projetos e organização, contendo:
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/alysson-arcas/
-- Email: alysson.arcas.pro@gmail.com
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alysson-arcas/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"/>
+  </a>
+  <a href="mailto:alysson.arcas.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
