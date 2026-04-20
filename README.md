@@ -1,14 +1,14 @@
 <p align="right">
   <a href="https://github.com/alysson-arcas-tec">
-    <img src="./assets/btn-ptbr.svg"/>
+    <img src="./assets/btn-ptbr.svg" height="24"/>
   </a>
   &nbsp;
   <a href="https://github.com/alysson-arcas-en">
-    <img src="./assets/btn-enus.svg"/>
+    <img src="./assets/btn-enus.svg" height="24"/>
   </a>
   &nbsp;
   <a href="https://github.com/alysson-arcas-es">
-    <img src="./assets/btn-eses.svg"/>
+    <img src="./assets/btn-eses.svg" height="24"/>
   </a>
 </p>
 
