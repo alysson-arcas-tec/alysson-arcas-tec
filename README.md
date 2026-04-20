@@ -1,19 +1,3 @@
-<p align="right">
-  <a href="https://github.com/alysson-arcas-tec">
-    <img src="./assets/btn-ptbr.svg" height="25"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/alysson-arcas-tec/alysson-arcas-en">
-    <img src="./assets/btn-enus.svg" height="25"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/alysson-arcas-tec/alysson-arcas-es">
-    <img src="./assets/btn-eses.svg" height="25"/>
-  </a>
-</p>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:000000&height=200&section=header&text=&fontSize=40&fontColor=ffffff" />
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00C853&size=28&center=true&vCenter=true&width=750&speed=50&pause=1500&lines=Olá,+eu+sou+Alysson;Seja+muito+bem-vindo+ao+meu+GitHub." />
