@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:000000&height=200&section=header&text=&fontSize=40&fontColor=ffffff" />
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00C853&size=28&center=true&vCenter=true&width=750&speed=50&pause=1500&lines=Olá,+eu+sou+Alysson;Seja+muito+bem-vindo+ao+meu+GitHub." />
+<img src="https://readme-typing-svg.herokuapp.com?color=00C853&size=28&center=true&vCenter=true&width=750&speed=50&pause=1500&lines=Olá,+eu+sou+Alysson;Hello,+I'm+Alysson;Seja+muito+bem-vindo+ao+meu+GitHub;Welcome+to+my+GitHub" />
 
 ---
 
