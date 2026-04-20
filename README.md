@@ -22,7 +22,7 @@ Meu perfil é voltado para:
 
 ## ⚙️ Ferramentas & Metodologias
 
-- 📊 Gestão de Projetos: Jira | Trello | ClickUp  
+- 📊 Gestão de Projetos: Jira | Kanban | Redmine 
 - 📅 Planejamento: Excel | MS Project  
 - 🔄 Metodologias: Scrum | Kanban  
 - 🤝 Comunicação: Slack | Microsoft Teams  
