@@ -74,8 +74,6 @@ Este GitHub é focado em gestão de projetos e organização, contendo:
 
 ## 📫 Contato
 
-## 📫 Contato
-
 <p align="left">
   <a href="https://www.linkedin.com/in/alysson-arcas/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"/>
