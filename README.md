@@ -119,6 +119,9 @@ Este GitHub é focado em gestão de projetos e organização, contendo:
   <a href="mailto:alysson.arcas.pro@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://alysson-arcas-tec.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
