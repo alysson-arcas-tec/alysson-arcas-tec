@@ -61,6 +61,8 @@ Meu perfil é voltado para:
 
 📚 **Certificações**  
 - +120 certificações na área de Tecnologia
+  
+---
 
 ## ⚙️ Ferramentas & Metodologias
 
