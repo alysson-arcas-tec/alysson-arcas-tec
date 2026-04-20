@@ -1,13 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:000000&height=200&section=header&text=&fontSize=40&fontColor=ffffff" />
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00C853&size=28&center=true&vCenter=true&width=750&speed=50&pause=1500&lines=Olá,+eu+sou+Alysson;Hello,+I'm+Alysson;Seja+muito+bem-vindo+ao+meu+GitHub;Welcome+to+my+GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C853&size=28&center=true&vCenter=true&width=750&speed=50&pause=1500&lines=Olá,+eu+sou+Alysson;Hello,+I'm+Alysson;Seja+muito+bem-vindo+ao+meu+GitHub;Welcome+to+my+GitHub" />
+</p>
 
 ---
 
-</p>
 🎯 Coordenador de Projetos <br>
 📊 Foco em organização, eficiência e entrega de resultados <br>
-📍 Brasil <br>
+<img src="https://flagcdn.com/w20/br.png"/>  Brasileiro <br>
 
 
 ---
@@ -23,6 +23,22 @@ Meu perfil é voltado para:
 - Gestão de equipes e demandas
 - Melhoria contínua
 - Comunicação com stakeholders
+
+---
+  
+## 🏆 Certificações
+
+<div align="center">
+<a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1032893">
+  <img src="https://raw.githubusercontent.com/alysson-arcas-tec/alysson-arcas-tec/main/assets/sfc.png" height="80px" alt="Scrum Fundamentals Certified">
+</a>
+<a href="https://cursos.becompliance.com/badges/badge.php?hash=99d688c78e27e19227c2c0e6826b53e4d2c1d41b">
+  <img src="https://raw.githubusercontent.com/alysson-arcas-tec/alysson-arcas-tec/main/assets/be.png" height="80px" alt="Be Compliance">
+</a>
+<a href="https://www.pmi.org">
+  <img src="https://raw.githubusercontent.com/alysson-arcas-tec/alysson-arcas-tec/main/assets/pmi.png" height="80px" alt="PMI Certification">
+</a>
+</div>
 
 ---
 
