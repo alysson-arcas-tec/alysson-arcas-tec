@@ -18,11 +18,14 @@ Atuo na coordenação de projetos com foco em transformar planejamento em execu�
 
 Tenho experiência na organização de demandas, acompanhamento de atividades e alinhamento entre equipes, sempre buscando garantir entregas dentro do prazo e com qualidade.
 
+Utilizo Inteligência Artificial como apoio estratégico na gestão de projetos, auxiliando na análise de informações, estruturação de processos e aumento de produtividade.
+
 Meu perfil é voltado para:
-- Estruturação de processos
-- Gestão de equipes e demandas
-- Melhoria contínua
-- Comunicação com stakeholders
+- Estruturação de processos  
+- Gestão de equipes e demandas  
+- Melhoria contínua  
+- Comunicação com stakeholders  
+- Uso de IA para apoio à tomada de decisão e eficiência operacional  
 
 ---
   
@@ -50,7 +53,6 @@ Meu perfil é voltado para:
 👨‍🎓 **Pós-graduações e MBAs**
 - Engenharia de Software  
 - Arquitetura de Sistemas da Informação  
-- Engenharia DevOps  
 - Business Intelligence, Big Data e Inteligência Artificial  
 - Gestão Estratégica de Projetos e Metodologias  
 - Gestão da Inovação, Tecnologia e Empreendedorismo  
@@ -62,6 +64,39 @@ Meu perfil é voltado para:
 📚 **Certificações**  
 - +120 certificações na área de Tecnologia
   
+---
+
+## 🤖 Inteligência Artificial aplicada à Gestão de Projetos
+
+Utilizo Inteligência Artificial como ferramenta estratégica para otimizar a gestão de projetos, apoiar a tomada de decisão e aumentar a produtividade das equipes.
+
+### 🧠 Aplicações práticas
+
+- Estruturação e análise de projetos com apoio de LLMs  
+- Criação de fluxos inteligentes com RAG (Retrieval-Augmented Generation)  
+- Uso de Agentes de IA para automação de tarefas e apoio operacional  
+- Organização e recuperação de conhecimento com MCP (Model Context Protocol)  
+- Apoio na definição de escopo, riscos e planejamento  
+
+### ⚙️ Modelos de IA utilizados
+
+- Claude (Opus, Sonnet, Haiku)  
+- GPT (OpenAI)  
+- Gemini (Google)  
+- LLaMA (Meta)  
+- Outras ferramentas e modelos open-source  
+
+### 🛠️ Ferramentas utilizadas
+
+- VS Code (Copilot e integrações com IA)  
+- Cursor IDE (Claude e GPT)  
+- Plataformas de automação e apoio com IA  
+- Ferramentas auxiliares para análise e produtividade  
+
+### 🎯 Objetivo
+
+Aplicar IA para tornar a gestão de projetos mais eficiente, orientada a dados e focada em resultados, reduzindo retrabalho e aumentando a qualidade das entregas.
+
 ---
 
 ## ⚙️ Ferramentas & Metodologias
