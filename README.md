@@ -7,7 +7,7 @@
 
 🎯 Coordenador de Projetos <br>
 📊 Foco em organização, eficiência e entrega de resultados <br>
-<img src="https://flagcdn.com/w20/br.png"/>  Brasileiro <br>
+📍 Curitiba-PR <br>
 
 
 ---
