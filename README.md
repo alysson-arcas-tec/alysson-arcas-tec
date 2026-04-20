@@ -48,6 +48,7 @@ Meu perfil é voltado para:
 ## 🎓 Formação Acadêmica
 
 🎓 Formação em Ciência da Computação, com pós-graduações em Engenharia de Software, Arquitetura, IA, BI, Projetos e Inovação.
+
 📚 Mais de 120 certificações em Tecnologia.
 
 ---
