@@ -3,11 +3,11 @@
     <img src="./assets/btn-ptbr.svg" height="25"/>
   </a>
   &nbsp;
-  <a href="https://github.com/alysson-arcas-tec/alysson-arcas-en">
+  <a href="https://github.com/alysson-arcas-en">
     <img src="./assets/btn-enus.svg" height="25"/>
   </a>
   &nbsp;
-  <a href="https://github.com/alysson-arcas-tec/alysson-arcas-es">
+  <a href="https://github.com/alysson-arcas-es">
     <img src="./assets/btn-eses.svg" height="25"/>
   </a>
 </p>
