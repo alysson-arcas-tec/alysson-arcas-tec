@@ -47,23 +47,9 @@ Meu perfil é voltado para:
 
 ## 🎓 Formação Acadêmica
 
-👨‍🎓 **Ensino Superior**  
-- Ciência da Computação
+🎓 Formação em Ciência da Computação, com pós-graduações em Engenharia de Software, Arquitetura, IA, BI, Projetos e Inovação.
+📚 Mais de 120 certificações em Tecnologia.
 
-👨‍🎓 **Pós-graduações e MBAs**
-- Engenharia de Software  
-- Arquitetura de Sistemas da Informação  
-- Business Intelligence, Big Data e Inteligência Artificial  
-- Gestão Estratégica de Projetos e Metodologias  
-- Gestão da Inovação, Tecnologia e Empreendedorismo  
-- Gerenciamento de Projetos  
-
-👨‍🎓 **Mestrado (em andamento)**  
-- Ciência da Computação – UTFPR
-
-📚 **Certificações**  
-- +120 certificações na área de Tecnologia
-  
 ---
 
 ## 🤖 Inteligência Artificial aplicada à Gestão de Projetos
