@@ -120,7 +120,7 @@ Este GitHub é focado em gestão de projetos e organização, contendo:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://alysson-arcas-tec.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-2ECC71?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
 
