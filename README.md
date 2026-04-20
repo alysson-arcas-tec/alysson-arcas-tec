@@ -4,18 +4,15 @@
 
 <p align="right">
   <a href="https://github.com/alysson-arcas-tec">
-    <img src="https://flagcdn.com/w20/br.png" width="20"/>
-    <img src="https://img.shields.io/badge/PT--BR-009c3b?style=flat-square"/>
+    <img src="./assets/btn-ptbr.svg"/>
   </a>
   &nbsp;
   <a href="https://github.com/alysson-arcas-en">
-    <img src="https://flagcdn.com/w20/us.png" width="20"/>
-    <img src="https://img.shields.io/badge/EN--US-3c3b6e?style=flat-square"/>
+    <img src="./assets/btn-enus.svg"/>
   </a>
   &nbsp;
   <a href="https://github.com/alysson-arcas-es">
-    <img src="https://flagcdn.com/w20/es.png" width="20"/>
-    <img src="https://img.shields.io/badge/ES--ES-aa151b?style=flat-square"/>
+    <img src="./assets/btn-eses.svg"/>
   </a>
 </p>
 
